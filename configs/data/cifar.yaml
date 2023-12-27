@@ -1,0 +1,4 @@
+_target_: src.cifar_datamodule.CifarDataModule
+
+data_dir: ${paths.data_dir}
+batch_size: 256

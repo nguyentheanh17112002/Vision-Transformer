@@ -1,0 +1,7 @@
+defaults:
+  - _self_
+  - data: cifar
+  - model: ViTmodule
+  - logger: wandb
+  - trainer: default
+  - paths: default
